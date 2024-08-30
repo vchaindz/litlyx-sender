@@ -1,6 +1,6 @@
 # LitLyx Sender
 
-LitLyx Sender is a Python library for easily sending events to the LitLyx platform.
+LitLyx Sender is a Python library for easily sending events to the [LitLyx](https://litlyx.com) platform.
 
 ## Installation
 
